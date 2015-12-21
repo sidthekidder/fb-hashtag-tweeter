@@ -2,7 +2,7 @@
 A simple tweet bot that scrapes hashtagged posts from the public facebook API. 
 
 - `pip install selenium twitter`
-- create a new twitter app on [apps.twitter.com](www.apps.twitter.com) and generate its API keys
+- create a new twitter app on [https://www.apps.twitter.com](https://www.apps.twitter.com) and generate its API keys
 - fill in your twitter API keys in `config.py`
 - fill in the hashtag you want to scrape
 - run `python scripts.py`
